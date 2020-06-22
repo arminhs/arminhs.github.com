@@ -1,5 +1,8 @@
-# Introduction
-
+---
+layout: default
+title: About Me
+nav_order: 1
+---
 
 ### The Past
 Studied Computer Science at TU-Berlin. Studied Java. Working student as Frontend-Developer. Used Java.
