@@ -1,6 +1,3 @@
 title: Armin's Profile
 description: Reverse Job Application
-theme: just-the-docs
-
-gems:
-  - just-the-docs
+remote_theme: pmarsceill/just-the-doc
