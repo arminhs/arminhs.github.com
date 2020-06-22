@@ -4,20 +4,12 @@ title: About Me
 nav_order: 1
 ---
 
-### The Past
-Studied Computer Science at TU-Berlin. Studied Java. Working student as Frontend-Developer. Used Java.
- 
-### The Present
-Started career as software engineer with Java technology.
+## Summary
 
-### The Future
-Software architect or mobile app developer.
+DevOps oriented software engineer
 
-### About Me
-tbd.
+## Experience
 
-### About You
-tbd.
-
-### Contact Me
-tbd.
+- Cloud environment setup
+- CI/CD pipeline setup with various CI server and tools
+- Software development
