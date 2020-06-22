@@ -4,4 +4,4 @@ title: Contact Me
 nav_order: 3
 ---
 
-[LinkedIn](www.linkedin.com/in/arminhalimschneider)
+[LinkedIn](https://www.linkedin.com/in/arminhalimschneider)
