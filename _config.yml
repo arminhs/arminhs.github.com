@@ -1,8 +1,6 @@
 title: Armin's Profile
 description: Reverse Job Application
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
 
 gems:
   - jekyll-mentions
