@@ -2,3 +2,6 @@ title: Armin's Blog
 description: Armin's Personal Blog
 
 remote_theme: ronv/sidey
+
+plugins:
+  - jekyll-feed
