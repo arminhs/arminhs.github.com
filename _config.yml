@@ -5,3 +5,12 @@ remote_theme: ronv/sidey
 
 plugins:
   - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+ 
