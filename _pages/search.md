@@ -31,7 +31,7 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.7.11/dest/simple-jekyll-search.min.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script type="text/javascript">
