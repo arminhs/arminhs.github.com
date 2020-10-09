@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
+title: About Me
 ---
 
-## About Me
+:link: https://www.linkedin.com/in/arminhalimschneider/
