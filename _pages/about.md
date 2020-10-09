@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 
-:link: https://www.linkedin.com/in/arminhalimschneider/
+LinkedIn: https://www.linkedin.com/in/ahalimschneider/
