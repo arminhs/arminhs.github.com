@@ -6,4 +6,4 @@ links:
 - title: Search
   url: /search
 - title: Rss
-  url: /atom.xml
+  url: /feed.xml
